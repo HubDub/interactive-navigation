@@ -1,0 +1,11 @@
+.navigate li {
+list-style-type: none;
+}
+
+a:hover li {
+  background-color: yellow;
+}
+
+a:visited li {
+  font-size: 1.5em;
+}
